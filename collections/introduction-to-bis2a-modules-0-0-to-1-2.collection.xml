@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mitch Singer">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11825</md:content-id>
     <md:title>Introduction to Bis2A:  Modules 0.0 to 1.2</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>adc9c8fa-1722-4d6a-990d-429743b12d06</md:uuid>
-<md:slug>introduction-to-bis2a-modules-0-0-to-1-2</md:slug>
-</metadata>
+    <md:slug>introduction-to-bis2a-modules-0-0-to-1-2</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m55901"/>
     <col:module document="m55903"/>
